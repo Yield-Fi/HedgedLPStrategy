@@ -2,7 +2,7 @@
 
 ## How our Core Strat Works 
 
-https://docs.robo-vault.com/robovault/master
+https://yieldfi.gitbook.io/yeildfi/yieldfi/about-market-neutral-farming-single-asset-borrow
 
 # Testing 
 
